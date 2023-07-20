@@ -1,0 +1,21 @@
+Ins_ID,Ins_Name,Ins_Gender,Ins_DOB,Ins_City,Ins_Street,Ins_Email,Ins_Salary,Dept_No,Crs_Id
+1,Amira Kamal,Female,1985-07-12,Cairo,Tahrir Street,amira.kamal@yahoo.com,9500,10,1
+2,Malek Hassan,Male,1982-02-28,Alexandria,Corniche Road,malek.hassan@yahoo.com,10000,10,2
+3,Nour Khaled,Female,1991-11-03,Giza,Nile Street,nour.khaled@yahoo.com,9500,30,3
+4,Adham Ibrahim,Male,1994-06-15,Cairo,Karnak Avenue,adham.ibrahim@yahoo.com,9000,40,4
+5,Nour Mahmoud,Female,1988-09-20,Aswan,Nubia Street,nour.mahmoud@yahoo.com,8500,20,5
+6,Atef Abdelaziz,Male,1987-04-10,Sharm El Sheikh,Naama Bay Boulevard,atef.abdelaziz@yahoo.com,9000,10,6
+7,Mariam Omar,Female,1996-12-06,Cairo,Sheraton Road,mariam.omar@yahoo.com,10000,10,7
+8,Tamer Kamal,Male,1983-08-22,Mansoura,Tanta Street,tamer.kamal@yahoo.com,9500,30,8
+9,Alaa Mostafa,Female,1993-03-17,Cairo,Suez Canal Street,alaa.mostafa@yahoo.com,8500,40,9
+10,Hany Karim,Male,1980-05-07,Ismailia,Port Fouad Avenue,hany.karim@yahoo.com,8500,20,10
+11,Farah Ramy,Female,1989-10-14,Suez,Al-Ataba Street,farah.ramy@yahoo.com,10500,10,11
+12,Ahmed Ramadan,Male,1997-07-31,Cairo,El-Galaa Street,ahmed.ramadan@yahoo.com,9500,40,12
+13,Yara Gamal,Female,1992-01-25,Zagazig,El-Mahalla Street,yara.gamal@yahoo.com,6000,30,13
+14,Karim Ali,Male,1990-09-08,Cairo,El-Gomhoreya Street,karim.ali@yahoo.com,7500,50,14
+15,Salma Hossam,Female,1986-12-02,Asyut,Al-Nile Street,salma.hossam@yahoo.com,8000,50,15
+16,Gamal Abdelrahman,Male,1984-03-18,Minya,Ramsis Street,gamal.abdelrahman@yahoo.com,7000,10,1
+17,Aya Yasser,Female,1998-04-16,Qena,Gamal Abdel Nasser St,aya.yasser@yahoo.com,9200,10,2
+18,Tarek Mostafa,Male,1995-11-11,Cairo,Port Said Street,tarek.mostafa@yahoo.com,6500,30,3
+19,Nada Amr,Female,1981-06-27,Beni Suef,Tahrir Street,nada.amr@yahoo.com,9000,10,4
+20,Youssef Salah,Male,1999-02-03,Asyut,El-Galaa Street,youssef.salah@yahoo.com,9500,30,5

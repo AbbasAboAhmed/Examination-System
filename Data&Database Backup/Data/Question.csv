@@ -1,0 +1,309 @@
+Qus_No,Qus_Text,Qus_Type,Crs_ID
+1, Who invented OOP?,mcq,1
+2, Which is not a feature of OOP in general definitions?,mcq,1
+3, Which was the first purely object oriented programming language developed?,mcq,1
+4, When OOP concept did first came into picture?,mcq,1
+5, Inheritance feature of OOP indicates code reusability?,t/f,1
+6, Which header file is required in C++ to use OOP?,mcq,1
+7, Why Java is Partially OOP language?,mcq,1
+8, Which among the following doesn’t come under OOP concept?,mcq,1
+9, Which is the correct syntax of inheritance?,mcq,1
+10,The copy constructors can be used to ________,mcq,1
+11, The feature by which one object can interact with another object is _____________,mcq,1
+12, Which among the following for a pure OOP language is true?,mcq,1
+13, How many types of access specifiers are provided in OOP (C++)?,mcq,1
+14, In multilevel inheritance which is the most significant feature of OOP used?,mcq,1
+15, What is encapsulation in OOP?,mcq,1
+16, Which of the following is not true about polymorphism?,mcq,1
+17,Which among the following represents correct constructor?,mcq,1
+18, What is an abstraction in object-oriented programming?,mcq,1
+19, Overloading << can show polymorphism?,t/f,1
+20, In  Private access should a constructor be defined so that object of the class can be created in any function?,t/f,1
+21,int x[] = new int[]{02030} <br><br>Arrays can also be created and initialize as in above statement.,t/f,2
+22,"In an instance method or a constructor ""this"" is a reference to the current object.",t/f,2
+23,Garbage Collection is manual process.,t/f,2
+24,The JRE deletes objects when it determines that they are no longer being used. This process is called Garbage Collection.,t/f,2
+25,Constructor overloading is not possible in Java.,t/f,2
+26,Assignment operator is evaluated Left to Right.,t/f,2
+27,All binary operators except for the assignment operators are evaluated from Left to Right,t/f,2
+28,Java programming is not statically-typed means all variables should not first be declared before they can be used.,t/f,2
+29,"In Java SE 7 and later underscore characters ""_"" can appear anywhere between digits in a numerical literal",t/f,2
+30,"Variable name can begin with a letter ""$"" or ""_"".",t/f,2
+31,What is Truncation in Java?,mcq,2
+32,Which of the following is a type of polymorphism in Java Programming?,mcq,2
+33,What is Truncation in Java?,mcq,2
+34,What is the extension of compiled java classes?,mcq,2
+35,Which exception is thrown when java is out of memory?,mcq,2
+36,Which of these are selection statements in Java?,mcq,2
+37,Which of these keywords is used to define interfaces in Java?,mcq,2
+38,Which of the following is a superclass of every class in Java?,mcq,2
+39,Which of these packages contains the exception Stack Overflow in Java?,mcq,2
+40,Which of these keywords are used for the block to be examined for exceptions?,mcq,2
+41,It is not possible to achieve inheritance of structures in c++?,t/f,3
+42,Super classes are also called Parent classes/Base classes.,t/f,3
+43,Sub classes may also be called Child classes/Derived classes.,t/f,3
+44,Which of the following is used for comments in C++?,mcq,3
+45,Which of the following user-defined header file extension used in c++?,mcq,3
+46,Which of the following is a correct identifier in C++?,mcq,3
+47,Which of the following is not a type of Constructor in C++?,mcq,3
+48,Which of the following approach is used by C++?,mcq,3
+49,What is virtual inheritance in C++?,mcq,3
+50,Which of the following type is provided by C++ but not C?,mcq,3
+51,By default all the files in C++ are opened in _________ mode.,mcq,3
+52,Which of the following correctly declares an array in C++?,mcq,3
+53,What is the size of wchar_t in C++?,mcq,3
+54,What is the use of the indentation in c++?,mcq,3
+55,Which is more effective while calling the C++ functions?,mcq,3
+56,Which of the following is used to terminate the function declaration in C++?,mcq,3
+57,Which keyword is used to define the macros in c++?,mcq,3
+58,The C++ code which causes abnormal termination/behaviour of a program should be written under _________ block.,mcq,3
+59,What is Inheritance in C++?,mcq,3
+60,Which of the following symbol is used to declare the preprocessor directives in C++?,mcq,3
+61,The ADD command is used to enter one row of data or to add multiple rows as a result of a query.,t/f,4
+62,The condition in a WHERE clause can refer to only one value.,t/f,4
+63,SQL provides the AS keyword which can be used to assign meaningful column names to the results of queries using the SQL built-in functions.,t/f,4
+64,The SELECT command with its various clauses allows users to query the data contained in the tables and ask many different questions or ad hoc queries.,t/f,4
+65,A SELECT statement within another SELECT statement and enclosed in square brackets ([...]) is called a subquery.,t/f,4
+66,The rows of the result relation produced by a SELECT statement can be sorted but only by one column.,t/f,4
+67,There is an equivalent join expression that can be substituted for all subquery expressions.,t/f,4
+68,A dynamic view is one whose contents materialize when referenced.,t/f,4
+69,SQL is a programming language.,t/f,4
+70,SELECT DISTINCT is used if a user wishes to see duplicate columns in a query.,t/f,4
+71,Which of the following joins are SQL server default?,mcq,4
+72,Which of the following is not a class of constraint in SQL Server?,mcq,4
+73,Which of the reasons will force you to use the XML data model in SQL Server?,mcq,4
+74,What is the hybrid model in SQL Server?,mcq,4
+75,Which of the following feature of SQL Server was used before XML technology for semi structured data?,mcq,4
+76,Which of the following language is used for procedural flow in SQL Server?,mcq,4
+77,Exception handling is possible in SQL Server using _____________,mcq,4
+78,Which of the following stored procedure is already defined in SQL Server?,mcq,4
+79,DML triggers in SQL Server is applicable to _____________,mcq,4
+80,User defined function in SQL Server can return ____________,mcq,4
+81,Indexes are created to enforce uniqueness on columns and to enable fast retrieval by column values.,t/f,5
+82,Money is defined in Oracle with the Currency data type.,t/f,5
+83,The default extension for SQL*Plus is .sql.,t/f,5
+84,The left-leaning slash tells Oracle to execute whatever statement is in the buffer.,t/f,5
+85,Oracle maintains a System Change Number (SCN) which is a database-wide value that is incremented by Oracle whenever database changes are made.,t/f,5
+86,The semicolon terminates a SQL statement (and executes it).,t/f,5
+87,SQL*Plus is a text editor.,t/f,5
+88,When you type Start FILENAME the statement in your file will be executed automatically.,t/f,5
+89,You can check on the status of tables with the DESCRIBE or DESC command.,t/f,5
+90,Oracle directly supports the definition of surrogate keys.,t/f,5
+91,Which of the following is another name of Oracle database’s design?,mcq,5
+92,Which of the following is used to logically group data together?,mcq,5
+93,Which of the following package procedure is UNRESTRICTED in Oracle?,mcq,5
+94,Oracle server configuration is dedicated for,mcq,5
+95,Which schema object instructs Oracle to connect to remotely access an object of a database?,mcq,5
+96,When a transaction modifies the database Oracle copies the original data before modifying it. What is the original copy of the modified data called?,mcq,5
+97,Which of the following is referred to as the language used application programs to request data from the DBMS?,mcq,5
+98,Which of the following RDBMS supports full fledged client server application development?,mcq,5
+99, Which of the following is the subset of SQL commands used to manipulate Oracle Database structures including tables?,mcq,5
+100,Which of the following is not included in DML (Data Manipulation Language)?,mcq,5
+101,Although some forms of memory are permanent most memory keeps data and instructions temporarily meaning its contents are erased when the computer is turned off.,t/f,6
+102,An all-in-one contains a separate tower.,t/f,6
+103,A smartphone is a small mobile computing consumer device designed to be worn.,t/f,6
+104,Data conveys meaning to users and information is a collection of unprocessed items which can include text numbers images audio and video,t/f,6
+105,Earbuds are a type of input device.,t/f,6
+106,A scanner is a light-sensing output device.,t/f,6
+107,One way to protect your computer from malware is to scan any removable media before using it.,t/f,6
+108,A solid-state drive contains one or more inflexible circular platters that use magnetic particles to store data instructions and information.,t/f,6
+109,The terms web and Internet are interchangeable.,t/f,6
+110,Operating systems are a widely recognized example of system software.,t/f,6
+111,. _______ is used to convert your application into Web-Application.,mcq,6
+112,In contrast the contract-first approach encourages you to think of the service contract first in terms of,mcq,6
+113,The basic Web Services platform is combination of _____ and _______,mcq,6
+114,Which of the following is correct about Service Description layer in Web Service Protocol Stack?,mcq,6
+115,Web services can be discovered using ________,mcq,6
+116,Which of the following style(s) is/are Strictly WS-I compliant?,mcq,6
+117,XML digital signatures provides,mcq,6
+118,A more complex approach for web service implementation is referred to as,mcq,6
+119,The standard for deploying web services on the Java EE platform as of Java EE 4,mcq,6
+120,Factory to use our Spring bean as the implementation,mcq,6
+121,What is the full form ASP?,mcq,7
+122,ASP.NET is a ____.,mcq,7
+123, Which of the following programming language can be used with ASP.NET?,mcq,7
+124,What is the extension of the ASP.NET page?,mcq,7
+125,Is ASP.NET Web form part of ASP.NET core?,t/f,7
+126,Which of the following technologies are also used with ASP.NET?,mcq,7
+127, In which form does Postback occur?,mcq,7
+128,What is the correct use of the web.config file?,mcq,7
+129,Is ASP.NET web form supports an event-driven application model?,t/f,7
+130,MVC stands for ____.,mcq,7
+131,What namespace is used for ASP.NET Web Form by default?,mcq,7
+132, Which of the following attribute must be set on a validator control for the validation?,mcq,7
+133,Can we style tree view and menus with CSS?,t/f,7
+134,The CSS stands for ____.,mcq,7
+135,Which term is used for pages that depend on the Master page?,mcq,7
+136, Every Server control of ASP.NET must have an id?,t/f,7
+137, Which file contains the Application_Start event?,mcq,7
+138,Which of the following is not an ASP.NET event?,mcq,7
+139,What is the return type of IsPostBack property?,mcq,7
+140,Can we use ASPX pages in MVC?,t/f,7
+141," What is Unix?
+",mcq,8
+142, The Unix shell is both _______ and _______ language.,mcq,8
+143," In which language UNIX is written?
+",mcq,8
+144, Which of the following is the first UNIX editor?,mcq,8
+145, Which of the following is not a feature of Unix?,mcq,8
+146," Which of the following is not true about Unix?
+",mcq,8
+147, Which of the following is not a part of all the versions of Unix?,mcq,8
+148, Which Unix command is used for changing the current directory?,mcq,8
+149, Which part of the Unix operating system interacts with the hardware?,mcq,8
+150, Which command is used to display the documentation of commands in Unix?,mcq,8
+151, Which Unix command is used for changing the current directory?,mcq,8
+152, Which command is used for printing the current working directory?,mcq,8
+153, Which command is used for listing files in a directory?,mcq,8
+154, Which command is used by the user to change their login password in Unix?,mcq,8
+155, Which command is used for displaying the contents of a file in Unix?,mcq,8
+156, Which command is used to compress files?,mcq,8
+157, Which command is used for displaying the beginning of a file in Unix?,mcq,8
+158, Which symbol is used with the tail command to print the file from the selected line?,mcq,8
+159,rmdir *command is used to delete all files in a directory,t/f,8
+160, echo command is used for displaying operating system details,t/f,8
+161, Which of the following provides a buffer between the user and the low-level interfaces to the hardware?,mcq,9
+162, Which of the following enables the user to utilise the system efficiently?,mcq,9
+163, Which of the following can make the application program hardware independent?,mcq,9
+164, Which of the following speed up the testing process?,mcq,9
+165, Which of the following includes its own I/O routine?,mcq,9
+166, Which forms the heart of the operating system?,mcq,9
+167, Which of the following locates a parameter block by using an address pointer?,mcq,9
+168, Which of the following are not dependent on the actual hardware performing the physical task?,mcq,9
+169, Which of the following bus can easily upgrade the system hardware?,mcq,9
+170, Which of the following is the first widely used operating system?,mcq,9
+171, Which of the following is an example of a single task operating system?,mcq,9
+172, Which of the following becomes a limiting factor while an application program has to be complete?,mcq,9
+173, Which of the following cannot carry implicit information?,mcq,9
+174, Point out the wrong statement.,mcq,9
+175,Which of the following type of virtualization is found in hypervisor such as Microsoft’s Hyper-V?,mcq,9
+176,In _______ the virtual machine simulates hardware so it can be independent of the underlying system hardware.,mcq,9
+177, Point out the wrong statement.,mcq,9
+178,In a ____________ scheme the VM is installed as a Type  Hypervisor directly onto the hardware.,mcq,9
+179,Which of the following operating system support operating system virtualization?,mcq,9
+180,VMware vCompute is a service that aggregates servers into an assignable pool?,t/f,9
+181, ____ editing software Photoshop uses raster-based images to edit photos.,mcq,10
+182, Several graphical and digital artworks can be ____ using Photoshop.,mcq,10
+183, Adobe Systems develops Photoshop which is available for ____.,mcq,10
+184, Photoshop files are usually saved as ___ files.,mcq,10
+185, What does PSD stand for?,mcq,10
+186, Which of the following is/are the feature(s) of Photoshop?,mcq,10
+187, Working with ____ allows you to create independent pieces of paper that can be edited independently and later added to,mcq,10
+188," Layer Palettes in Photoshop have a variety of features to help you work with them such as ____ and locking.
+",mcq,10
+189," Photoshop's workspace represents its ____.
+",mcq,10
+190,"____ is the name of the default Photoshop workspace.
+
+",mcq,10
+191," Digital painting tasks can be carried out in the ____ workspace
+",mcq,10
+192, What is the shortcut key used in order to perform a free transformation?,mcq,10
+193,In order to decrease the size of the brush use -,mcq,10
+194, In order to increase the hardness of the brush use -,mcq,10
+195, In order to create a new layer via copy use -,mcq,10
+196, In order to create a new layer via cut use -Ctrl + Alt + J,t/f,10
+197, In order to close all the documents that are open use -Ctrl + Shift + P,t/f,10
+198, A Photoshop document can be searched using the ____ key combination.Ctrl + S,t/f,10
+199,Shortcut key to start help -F,t/f,10
+200, Shortcut key to cut a selection -F2,t/f,10
+201,Which of the following is golden rule for interface design?,mcq,11
+202,Which of the following is not a design principle that allow the user to maintain control?,mcq,11
+203,Which of the following is not a user interface design process?,mcq,11
+204,When users are involved in complex tasks the demand on __________ can be significant.,mcq,11
+205,Which of the following option is not considered by the Interface design?,mcq,11
+206,A software might allow a user to interact via,mcq,11
+207,A software engineer designs the user interface by applying an iterative process that draws on predefined design principles.,t/f,11
+208,What incorporates data architectural interface and procedural representations of the software?,mcq,11
+209,What establishes the profile of end-users of the system?,mcq,11
+210,What combines the outward manifestation of the computer-based system  coupled with all supporting information that describe system syntax and semantics?,mcq,11
+211,What do you understand by V&V in software testing?,mcq,11
+212,In static test techniques behavioral and performance properties of the program are observed.,t/f,11
+213,Which granularity level of testing checks the behavior of module cooperation?,mcq,11
+214,Which test refers to the retesting of a unit integration and system after modification in order to ascertain that the change has not introduced new faults?,mcq,11
+215,Which of the following is a black box testing strategy?,mcq,11
+216,A set of inputs execution preconditions and expected outcomes is known as a,mcq,11
+217,In which test design each input is tested at both ends of its valid range and just outside its valid range?,mcq,11
+218,A white box test scales up well at different granularity levels of testing.,t/f,11
+219,When does the testing process stops?,mcq,11
+220,Which of the following is not a part of a test design document?,mcq,11
+221,"As companies move past the experimental phase with Hadoop, many cite the need for additional capabilities, including _______________",mcq,12
+222,Point out the correct statement.,mcq,12
+223,"According to analysts, for what can traditional IT systems provide a foundation when they’re integrated with big data technologies like Hadoop?",mcq,12
+224,Hadoop is a framework that works with a variety of related tools. Common cohorts include ____________,mcq,12
+225,Point out the wrong statement.,mcq,12
+226,What was Hadoop named after?,mcq,12
+227,"All of the following accurately describe Hadoop, EXCEPT ____________",mcq,12
+228,__________ can best be described as a programming model used to develop Hadoop-,mcq,12
+229,__________ has the world’s largest Hadoop cluster.,mcq,12
+230,Facebook Tackles Big Data With _______ based on Hadoop.,mcq,12
+231,Which utility is used for checking the health of a HDFS file system?,mcq,12
+232,In Hadoop 2.x release HDFS federation means,mcq,12
+233,Which scenario demands highest bandwidth for data transfer between nodes in Hadoop?,mcq,12
+234,Which of the below property gets configured on hdfs-site.xml ?,mcq,12
+235,Which of the below apache system deals with ingesting streaming data to hadoop,mcq,12
+236,The type of data Hadoop can deal with is,mcq,12
+237,The purpose of starting namenode in the recovery mode is to,mcq,12
+238,You can reserve the amount of disk usage in a data node by configuring the dfs.datanode.du.reserved in which of the following file,mcq,12
+239,Which of the following technologies is a document store database?,mcq,12
+240,Which of the following components retrieves the input splits directly from HDFS to determine the number of map tasks?,mcq,12
+241,What is CSS?,mcq,13
+242,Which of the following tag is used to embed css in html page?,mcq,13
+243,Which of the following CSS selectors are used to specify a group of elements?,mcq,13
+244,"Which of the following has introduced text, list, box, margin, border, color, and background properties?",mcq,13
+245,Which of the following CSS framework is used to create a responsive design?,mcq,13
+246,Which of the following CSS selector is used to specify a rule to bind a particular unique element?,mcq,13
+247,Which of the following type of HTML tag is used to define an internal style sheet?,mcq,13
+248,Which of the following type of HTML tag is used to define an internal style sheet?,mcq,13
+249,"What will be the output of following CSS code snippet? h1 {color: ""green"";}",mcq,13
+250,Which of the following CSS style property is used to specify an italic text?,mcq,13
+251,webkit  are the CSS Extension Prefixes for Webkit?,t/f,13
+252,<link rel=”stylesheet” href=”style.css” /> is the correct syntax to link an external style sheet in the HTML,t/f,13
+253,CSS level 1is the first CSS specification to become an official W3C Recommendation?,t/f,13
+254,linear-gradient() defines a linear gradient as a CSS image?,t/f,13
+255,border-image-source CSS property can be used to set the image as a border instead of the border style?,t/f,13
+256,border CSS property defines the different properties of all four sides of an element’s border in a single declaration?,t/f,13
+257,in an external CSS file way to apply CSS Styles?,t/f,13
+258,size  CSS property sets the font size of text?,t/f,13
+259,margin  is not the property of the CSS box model?,t/f,13
+260," text-decoration-line  CSS property sets what kind of line decorations are added to an element, such as underlines, overlines, etc?",t/f,13
+261,Software is defined as ___________,mcq,14
+262,What is Software Engineering?,mcq,14
+263,Who is the father of Software Engineering?,mcq,14
+264,What are the features of Software Code?,mcq,14
+265,____________ is a software development activity that is not a part of software processes.,mcq,14
+266,Define Agile scrum methodology,mcq,14
+267,CASE stands for,mcq,14
+268,________ is defined as the process of generating analysis and designing documents?,mcq,14
+269,The activity that distributes estimated effort across the planned project duration by allocating the effort to specific software developing tasks is ____________,mcq,14
+270,What is a Functional Requirement?,mcq,14
+271,Why do bugs and failures occur in software?,mcq,14
+272,Attributes of good software is ____________,mcq,14
+273,The Cleanroom philosophy was proposed by _________,mcq,14
+274,What does SDLC stands for?,mcq,14
+275,Who proposed the spiral model?,mcq,14
+276,______________ is not among the eight principles followed by the Software Code of Ethics and Professional Practice.,t/f,14
+277,Upper Case Tools are CASE tools?,t/f,14
+278,Customer collaboration suits the Manifesto for Agile Software Development.,t/f,14
+279,Software patch is defined as Emergency Fix,t/f,14
+280,Democratic decentralized (DD) software development team has no permanent leader.,t/f,14
+281,What is Cyber Security?,mcq,15
+282,What does cyber security protect?,mcq,15
+283,Who is the father of computer security?,mcq,15
+284,"Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",mcq,15
+285,Which of the following is a type of cyber security?,mcq,15
+286,What are the features of cyber security?,mcq,15
+287,Which of the following is an objective of network security?,mcq,15
+288,Which of the following is not a cybercrime?,mcq,15
+289,Which of the following is a component of cyber security?,mcq,15
+290,Which of the following is a type of cyber attack?,mcq,15
+291,Which of the following is not an advantage of cyber security?,mcq,15
+292,“Cyberspace” was coined by _________,mcq,15
+293,In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?,mcq,15
+294,Governments hired some highly skilled hackers for providing cyber security for the country or state. These types of hackers are termed as _______,mcq,15
+295,Which of the following act violates cyber security?,mcq,15
+296,Attack ctions compromise cyber security?,t/f,15
+297,Pharming g is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?,t/f,15
+298,MiTM  not a type of peer-to-peer cyber-crime?,t/f,15
+299,Buffer-overflow  A cyber-criminal or penetration tester uses the additional data that stores certain special instructions in the memory for activities to break the system in which of the following attack,t/f,15
+300,websites do Cyber attackers commonly target for fetching IP address of a target or victim user?,t/f,15

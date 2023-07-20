@@ -1,0 +1,293 @@
+CrsID,CourseTitle,Cost
+1,Introduction to Python,Free
+2,Introduction to SQL,Free
+3,Project Execution: Running the Project,Free
+4,Joining Data with pandas,Free
+5,Introduction to Augmented Reality and ARCore,Free
+6,Introduction to Data Science in Python,Free
+7,Foundations of Project Management,Free
+8,Project Planning: Putting It All Together,Free
+9,Exploratory Data Analysis in Python,Free
+10,Capstone: Applying Project Management in the Real World,Free
+11,Agile Project Management,Free
+12,Project Initiation: Starting a Successful Project,Free
+13,Data Manipulation with pandas,Free
+14,Introduction to relational database,Free
+15,Intermediate Python,Free
+16,Data Analytics Foundation,Free
+17,Introduction to career skills in data analytics,Free
+18,Introduction to Data Visualization with Seaborn,Free
+19,Introduction in DAX in power Bi,Free
+20,SQL for Data Analysis,Free
+21,Python for Web Scraping,Free
+22,Deep Learning with TensorFlow,Free
+23,R for Data Visualization,Free
+24,Data visualisation in power BI,Free
+25,Introduction to Spark,Free
+26,Introduction to Power BI,Free
+27,Python for Data Visualization,Free
+28,Intermediate SQL Server,Free
+29,SQL for Data Science,Free
+30,Deep Learning with Keras,Free
+31,Data Engineering with SQL,Free
+32,Time Series Analysis in R,Free
+33,Applied Natural Language Processing,Free
+34,Financial Modeling in Excel,Free
+35,Advanced Tableau,Free
+36,Python for Data Wrangling,Free
+37,Experimental Design in Python,Free
+38,Big Data Analytics,Free
+39,Bayesian Statistics,Free
+40,Web Scraping in Python,Free
+41,Reinforcement Learning,Free
+42,SQL for Data Wrangling,Free
+43,Web Development with Flask,Free
+44,Advanced Deep Learning,Free
+45,Data Visualization with Shiny,Free
+46,Python for Data Cleaning,Free
+47,Introduction to Hadoop,Free
+48,Data Engineering with Spark,Free
+49,Machine Learning with PyTorch,Free
+50,Data Visualization with Plotly,Free
+51,Deep Learning with TensorFlow 2.0,Free
+52,Data Engineering with Apache Kafka,Free
+53,Time Series Forecasting in Python,Free
+54,Applied Natural Language Processing with Python,Free
+55,Financial Modeling in Python,Free
+56,Advanced Data Visualization,Free
+57,C# Basics,$25/mo
+58,Java Basics,$25/mo
+59,Mindfulness for Wellbeing and Peak Performance,Free
+60,Introduction to Probability - The Science of Uncertainty,Free
+61,Existential Well-being Counseling: A Person-centered Experiential Approach,Free
+62,sec.edu - Security Engineering - Applied Cyber Security,Free
+63,Foundations of Computer Science for Teachers,Free
+64,The Ancient Greek Hero in 24 Hours,Free
+65,The Science of Gastronomy,Free
+66,Chinese Thought: Ancient Wisdom Meets Modern Science - Part 2,Free
+67,4G Network Essentials,Free
+68,Computation Structures - Part 1: Digital Circuits,Free
+69,Ecodesign for Cities and Suburbs,Free
+70,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Free
+71,Reconciliation Through Indigenous Education,Free
+72,Lessons from Ebola: Preventing the Next Pandemic,Free
+73,Quantum Mechanics for Everyone,Free
+74,Justice,Free
+75,"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",Free
+76,Communicating Corporate Social Responsibility (CSR),Free
+77,Astrophysics: The Violent Universe,Free
+78,Humanity and Nature in Chinese Thought | ,Free
+79,"Introduction to Philosophy: God, Knowledge and Consciousness",Free
+80,Hubungan Etnik (Taylor's University),Free
+81,United States Health Policy,Free
+82,Greatest Unsolved Mysteries of the Universe,Free
+83,Calculus 1A: Differentiation,Free
+84,Philosophy: Minds and Machines,Free
+85,Business Communications,Free
+86,Mechanics: Kinematics and Dynamics,Free
+87,Energy Within Environmental Constraints,Free
+88,Supply Chain Management: A Decision-Making Framework,Free
+89,Cyber Security Basics: A Hands-on Approach,Free
+90,Positive Behavior Support for Young Children,Free
+91,Machine Learning for Data Science,Free
+92,Introduction to Biology - The Secret of Life,Free
+93,Management Accounting for Decision Making,Free
+94,Circuits and Electronics 1: Basic Circuit Analysis,Free
+95,Readings in Global Health,Free
+96,Principles of Biochemistry,Free
+97,Stand up for Science: Practical Approaches to Discussing Science that Matters,Free
+98,Linear Algebra - Foundations to Frontiers,Free
+99,Foundations of Data Analysis - Part 1: Statistics Using R,Free
+100,Communication Acoustics,Free
+101,Python Data Science Toolbox (Part 2),$29/mo
+102,Introductory AP¬Æ Microeconomics,Free
+103,Sustainable Urban Development,Free
+104,Introduction to DevOps: Transforming and Improving Operations,Free
+105,Space Mission Design and Operations,Free
+106,Data Structures and Software Design,Free
+107,American Government,$25/mo
+108,PH556X: Practical Improvement Science in Health Care: A Roadmap for Getting Results,$25/mo
+109,A History of Violence: From Middle Ages to Modern Times,Free
+110,Computer Networking - Local Area Networks and the OSI Model,Free
+111,International Humanitarian Law,Free
+112,Improving Global Health: Focusing on Quality and Safety,Free
+113,HTML5 Coding Essentials and Best Practices,Free
+114,"Introduction to Mechanics, Part 1",Free
+115,Python for Data Science,Free
+116,Shakespeare: On the Page and in Performance,Free
+117,"Question Reality! Science, philosophy, and the search for meaning",Free
+118,Paradigms of Computer Programming ‚Äì Fundamentals,Free
+119,Introduction to Public Speaking,Free
+120,Underactuated Robotics,Free
+121,Introduction to Data Analysis using Excel,Free
+122,Introduction to Bootstrap ‚Äì A Tutorial,Free
+123,Basic Spanish 1: Getting Started,Free
+124,Learn to Program Using Python,Free
+125,Foundations of Development Policy: Advanced Development Economics,Free
+126,Industry 4.0: How to Revolutionize your Business,Free
+127,Introduction to Marketing: Tools to Set Enterprises Apart,Free
+128,Science & Cooking: From Haute Cuisine to Soft Matter Science (part 2),Free
+129,Portfolio Management & Governance,Free
+130,Contract Law: From Trust to Promise to Contract,Free
+131,The Computing Technology Inside Your Smartphone,Free
+132,Introduction to the Electrical Trade,Free
+133,Accounting for Decision-Making,Free
+134,Introduction to Marketing,Free
+135,Get Beyond Work-Life Balance (Inclusive Leadership Training),Free
+136,Forensic Engineering: Learning from Failures,Free
+137,Data Science: R Basics,Free
+138,"Programming Languages, Part C",Free
+139,Health Literacy and Communication for Health Professionals,Free
+140,Sharpened Visions: A Poetry Workshop,Free
+141,Grammar and Punctuation,Free
+142,Music as Biology: What We Like to Hear and Why,Free
+143,Mastering Jobs-to-be-Done Interviews,Free
+144,Supply Chain Fundamentals,Free
+145,Programming in Scratch,Free
+146,Launching Innovation in Schools,Free
+147,Paradigms of Computer Programming ‚Äì Abstraction and Concurrency,Free
+148,Introduction to Managerial Economics,Free
+149,Urban Design for the Public Good: Dutch Urbanism,Free
+150,AP¬Æ Macroeconomics,Free
+151,Programming for Everybody (Python),$29/mo
+152,Cell Biology: Mitochondria,Free
+153,Design: Creation of Artifacts in Society,Free
+154,Computer Science 101,Free
+155,Global History Lab,Free
+156,Introduction to Control System Design - A First Look,Free
+157,"Responsible Innovation: Ethics, Safety and Technology",Free
+158,The Opioid Crisis in America,Free
+159,Introduction to Linear Models and Matrix Algebra,Free
+160,AP¬Æ Spanish Language and Culture,Free
+161,Open Government,Free
+162,Introduction to Data Storage and Management Technologies,Free
+163,Policy Analysis Using Interrupted Time Series,Free
+164,Hacking PostgreSQL: Data Access Methods,Free
+165,Proteins: Biology's Workforce,Free
+166,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,Free
+167,Supply Chain Dynamics,Free
+168,A Hands-on Introduction to Engineering Simulations,Free
+169,China (Part 5): From a Global Empire under the Mongols to a Global Economy under the Ming Dynasty,Free
+170,Hong Kong Cinema through a Global Lens,Free
+171,Leaders of Learning,Free
+172,CLEP¬Æ American Government Book + Online,Free
+173,Introduction to Algebra,Free
+174,Chinese Thought: Ancient Wisdom Meets Modern Science - Part 1,Free
+175,Principles of Electric Circuits,Free
+176,AP¬Æ Physics 2 - Part 3: Optics and Modern Physics,Free
+177,Processing Big Data with Hadoop in Azure HDInsight,Free
+178,First Nights: Beethoven‚Äôs 9th Symphony and the 19th Century Orchestra,Free
+179,Foundations of Data Analysis - Part 2: Inferential Statistics,Free
+180,Entrepreneurial Land Redevelopment Approach: Land Readjustment,Free
+181,Business Analytics for Data-Driven Decision Making,Free
+182,"Selling Ideas: How to Influence Others, and Get Your Message to Catch On",Free
+183,Leading With Effective Communication (Inclusive Leadership Training),Free
+184,"Proteins: Alignment, Analysis and Structure",Free
+185,Learn to Program: Crafting Quality Code,Free
+186,The Meaning of Rome: The Renaissance and Baroque City,Free
+187,Programming with Python for Data Science,Free
+188,Masterpieces of World Literature,Free
+189,China (Part 6): The Manchus and the Qing Dynasty,Free
+190,The Conscious Mind - A Philosophical Road Trip,Free
+191,Introduction to Business,Free
+192,Write Better Python,Free
+193,Build a Simple Dynamic Site with Node.js,$300
+194,Gulp Basics,Free
+195,Git Basics,Free
+196,Computational Probability and Inference,Free
+197,The Architectural Imagination,Free
+198,Policy Lessons from South Korea's Development,Free
+199,Introduction to Applied Biostatistics: Statistics for Medical Research,Free
+200,Introduction to Wines,Free
+201,Learn to Paint With Len Hend,Free
+202,Crowdfunding Academy,Free
+203,Astrophysics: Cosmology,Free
+204,Astrophysics: Exploring Exoplanets,Free
+205,Religion and Hip Hop Culture,Free
+206,Introduction to Computer Science,Free
+207,The Science of Happiness,Free
+208,Maths Essentials for MBA Success,Free
+209,Supply Chain Technology and Systems,Free
+210,Advanced Transport Phenomena,Free
+211,Corporate Financial Policy,Free
+212,Preparing for the AP Physics 1 Exam,Free
+213,Technology Innovation for Sustainable Development,Free
+214,How to Survive Your PhD,Free
+215,Italian Language and Culture,Free
+216,Introduction to Music Theory,Free
+217,Entrepreneurial Opportunities,Free
+218,"Customs of the World: Using Cultural Intelligence to Adapt, Wherever You Are - DVD, digital video course",Free
+219,"How to Stay Fit as You Age - DVD, digital video course",Free
+220,Business Foundations,Free
+221,Design and Development of Educational Technology,Free
+222,Introduction to Family Engagement in Education,$34.95
+223,Supply Chain Analytics,Free
+224,Introduction to Aeronautical Engineering,Free
+225,China (Part 2): The Creation and End of Centralized Empire,Free
+226,How to Win Coding Competitions: Secrets of Champions,Free
+227,Shylock‚Äôs Bond,Free
+228,Introduction to Biomedical Imaging,Free
+229,Effective Use of Interactive Whiteboards,Free
+230,Statistics for Business ,Free
+231,International Investment Law,Free
+232,Autonomous Navigation for Flying Robots,Free
+233,Embedded Systems - Shape The World,Free
+234,Circuits and Electronics 3: Applications,$199
+235,Fundamentals of Clinical Trials,Free
+236,First Nights: Handel‚Äôs Messiah and Baroque Oratorio,Free
+237,Master Control in Supply Chain Management and Logistics,Free
+238,D?©couvrir la science politique,Free
+239,Backend in Node.js,Free
+240,Academic and Business Writing,Free
+241,The Book: Book Sleuthing: What 19th-Century Books Can Tell Us About the Rise of the Reading Public?,Free
+242,Global Health Case Studies from a Biosocial Perspective,Free
+243,Fundamentals of Project Planning and Management,$329
+244,HTML5 and CSS Fundamentals,$25/mo
+245,Dying2Learn,$25/mo
+246,Minds and Machines,$25/mo
+247,Web Development,$25/mo
+248,"Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity",Free
+249,The Book: The History of the Book in the 17th and 18th Century Europe,Free
+250,Language Revival: Securing the Future of Endangered Languages,Free
+251,Aboriginal Worldviews and Education,Free
+252,Science in Art: The Chemistry of Art Materials and Conservation,Free
+253,Statistical Inference and Modeling for High-throughput Experiments,Free
+254,Statistical Learning,Free
+255,"Circuits and Electronics 2: Amplification, Speed, and Delay",Free
+256,Introduction to Programming for the Visual Arts with p5.js,Free
+257,Chinese Politics Part 1 ‚Äì China and Political Science,Free
+258,Fundamentals of Neuroscience Part 1: Electrical Properties of the Neuron,Free
+259,How Green Is That Product? An Introduction to Life Cycle Environmental Assessment,Free
+260,Basic Statistics,Free
+261,Digging Deeper: Making Manuscripts,Free
+262,Analyzing Big Data with Microsoft R Server,Free
+263,Artificial Intelligence (AI),Free
+264,"HTML, CSS, and Javascript for Web Developers",Free
+265,Understanding Plants - Part I: What a Plant Knows,Free
+266,D?©couvrir l'anthropologie,Free
+267,Video Game Design History,Free
+268,Future Cities,Free
+269,LAFF ‚Äì On Programming for Correctness,Free
+270,Computer Networking - Wired and Wireless Networks and Protocols,Free
+271,Shaping the Future of Work,$254.95
+272,Tsunamis and Storm Surges: Introduction to Coastal Disasters,$219.95
+273,Media LIT: Overcoming Information Overload,Free
+274,Fundamentals of Neuroscience Part 2: Neurons and Networks,Free
+275,Personal Finance,Free
+276,Understanding Classroom Interaction,Free
+277,Innovating in Health Care,Free
+278,Greeks at War: Homer at Troy,Free
+279,The Basics of Transport Phenomena,Free
+280,Engineering Mechanics,Free
+281,Supply Chain Design,Free
+282,People Management for Entrepreneurs,Free
+283,China (Part 1): Political and Intellectual Foundations: From the Sage Kings to Confucius and the Legalists,Free
+284,MyCS: Computer Science for Beginners,Free
+285,Introduction to Bioethics,Free
+286,Introduction to Computer Numerical Control,Free
+287,The Rise of Superheroes and Their Impact On Pop Culture,Free
+288,"China (Part 10): Greater China Today: The People's Republic, Taiwan, and Hong Kong",Free
+289,Machine Learning: Clustering & Retrieval,Free
+290,The Next Generation of Infrastructure,Free
+291,Architecting Microsoft Azure Solutions,Free
+292,Enhancing Teacher Education Through OER,Free
